@@ -1,0 +1,2 @@
+# MentalSploitableSSH
+SSH Ruby AutoExploit
